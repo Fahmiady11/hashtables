@@ -1,2 +1,2 @@
-# hashtables
-Quadratic probing &amp; double hashing examples.
+# Hash Tables
+Quadratic probing & double hashing examples, cycled through various constant values and hash functions.
